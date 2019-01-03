@@ -136,7 +136,7 @@ p {
 
 @media (min-width: 768px) and (max-width: 991px) {
 	.col-md-12 .section {
-		width:95%;
+		width:97.5%;
 	}
 }
 /*****small devices only******/
